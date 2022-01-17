@@ -5,9 +5,9 @@
 
 # Portfólio
 
-## Microsoft Office / VBA
+## EXCEL / VBA
 
-###  ATUALIZADOR BANCO DE DADOS - EXCEL
+###  ATUALIZADOR BANCO DE DADOS
 
 #### <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png" /> **Descrição:**
 
