@@ -5,9 +5,12 @@
 
 # Portfólio - Microsoft Office
 
+1. ATUALIZADOR BANCO DE DADOS
+2. GERADOR DE SLIDES - WHATSAPP
+
 ## EXCEL / VBA
 
-###  ATUALIZADOR BANCO DE DADOS
+### 1. ATUALIZADOR BANCO DE DADOS
 
 #### <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png" /> **Descrição:**
 
