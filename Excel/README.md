@@ -1,4 +1,4 @@
-VOLTAR | <a href="https://github.com/daiangm"><img src="https://i.imgur.com/MfPMRE3.png" style="height: 40px" /></a>
+<a href="javascript:history.back()">VOLTAR</a> <a href="https://github.com/daiangm"><img src="https://i.imgur.com/MfPMRE3.png" style="height: 40px" /></a>
 
 # Portfólio
 
