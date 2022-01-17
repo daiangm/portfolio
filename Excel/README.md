@@ -1,4 +1,4 @@
-VOLTAR | <a href="https://github.com/daiangm"><img src="https://i.imgur.com/NPtL87V.png" style="height: 25px" />PÁGINA INICIAL</a>
+VOLTAR | <a href="https://github.com/daiangm"><img src="https://i.imgur.com/MfPMRE3.png" style="height: 40px" /></a>
 
 # Portfólio
 
