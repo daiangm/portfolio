@@ -1,4 +1,7 @@
-<a href="javascript:history.back()">VOLTAR</a> <a href="https://github.com/daiangm"><img src="https://i.imgur.com/MfPMRE3.png" style="height: 40px" /></a>
+<div>
+ <a href="https://github.com/daiangm/portfolio"><img src="https://i.imgur.com/7gAqU7b.png" style="height: 40px" /></a>
+ <a href="https://github.com/daiangm"><img src="https://i.imgur.com/MfPMRE3.png" style="height: 40px" alt="Github - Daian" title="Github - Daian" /></a>
+</div>
 
 # Portfólio
 
