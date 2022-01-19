@@ -5,8 +5,8 @@
 
 # Portfólio - Microsoft Office
 
-1. <a href="https://github.com/daiangm/portfolio/blob/main/Excel/README.md#1-atualizador-banco-de-dados">ATUALIZADOR BANCO DE DADOS</a>
-2. <a href="https://github.com/daiangm/portfolio/blob/main/Excel/README.md#2-gerador-de-slides-whatsapp">GERADOR DE SLIDES - WHATSAPP</a>
+1. <a href="#1-atualizador-banco-de-dados">ATUALIZADOR BANCO DE DADOS</a>
+2. <a href="#2-gerador-de-slides-whatsapp">GERADOR DE SLIDES - WHATSAPP</a>
 
 ## EXCEL / VBA
 
@@ -62,10 +62,10 @@ O objetivo desta aplicação é gerar slides via Powerpoint automaticamente atra
  #### <img height="22" src="https://aux.iconspalace.com/uploads/17947374941607781187.png" /> **Ferramentas Utilizadas:**
 
 <div style="display: inline-block">
- <a href="#-ferramentas-utilizadas"><img align="center" height="38" title="Excel" alt="Excel" src="https://findicons.com/files/icons/2795/office_2013_hd/256/excel.png" /></a>
- <a href="#-ferramentas-utilizadas"><img align="center" height="38" title="Access" alt="Access" src="https://findicons.com/files/icons/2795/office_2013_hd/256/access.png"></a>
- <a href="#-ferramentas-utilizadas"><img align="center" height="33" title="VBA" alt="VBA" src="https://www.excelerateclasses.com/wp-content/uploads/2020/12/iconfinder_file-type-vba_4196094.png" /></a>
- <a href="#-ferramentas-utilizadas"><img align="center" height="34" title="Selenium" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/1280px-Selenium_logo.svg.png" /></a>
+ <a href="#-ferramentas-utilizadas-1"><img align="center" height="38" title="Excel" alt="Excel" src="https://findicons.com/files/icons/2795/office_2013_hd/256/excel.png" /></a>
+ <a href="#-ferramentas-utilizadas-1"><img align="center" height="38" title="Access" alt="Access" src="https://findicons.com/files/icons/2795/office_2013_hd/256/access.png"></a>
+ <a href="#-ferramentas-utilizadas-1"><img align="center" height="33" title="VBA" alt="VBA" src="https://www.excelerateclasses.com/wp-content/uploads/2020/12/iconfinder_file-type-vba_4196094.png" /></a>
+ <a href="#-ferramentas-utilizadas-1"><img align="center" height="34" title="Selenium" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/1280px-Selenium_logo.svg.png" /></a>
 
 #### <img height="22" title="Capturas de Tela" alt="Capturas de Tela" src="https://www.freeiconspng.com/uploads/no-image-icon-13.png" /> **Screenshots:**
 
