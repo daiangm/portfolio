@@ -41,4 +41,34 @@ O intuito foi criar uma base de dados local para geração de relatórios e mini
 |<img src="https://media4.giphy.com/media/gJDdffxl7HkqnSa0T0/giphy.gif?cid=790b761187289e98b631cef34dea86da524dc78e9172a233&rid=giphy.gif&ct=g" />|CONFIGURAÇÃO DOS CAMPOS DO RETORNO JSON DA API </p> <img src="https://i.imgur.com/ocignP6.jpg" />|
 |---|---|
 
-##### 
+### 2. Gerador de Slides Whatsapp
+
+#### <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png" /> **Descrição:**
+O objetivo desta aplicação é gerar slides via Powerpoint automaticamente através de macros no VBA trazendo tabelas e gráficos correspondente à cada empresa e enviar para seus respectivos grupos (cujo os membros são os sócios de cada empreendimento) no Whatsapp
+
+#### <img height="22" src="https://i.imgur.com/dFI6KAY.png" /> **Funcionalidades:**
+
+ - Consulta ao Banco de Dados Access atualizado pelo <a href="https://github.com/daiangm/portfolio/blob/main/Excel/README.md#1-atualizador-banco-de-dados">Atualizador de Banco de Dados</a> (item anterior);
+ - Tratamento dos dados conforme regra de negócio e facilitação de visualização das informações;
+ - Fácil configuração de parâmetros em planilha, tais como:
+   - Identificação do empreendimento no Banco de Dados;
+   - Logo da empresa, cor de fundo do slide;
+   - Quantos slides serão gerados para cada empreendimento (Financeiro, Comercial, Estoque e Condomínio);
+   - Nome do grupo no Whatsapp utilizado para cada empresa;
+   - Nome da pasta onde os slides serão salvos.
+ - Gera e salva os slides em pastas pré-configuradas;
+ - Envia os slides automaticamente para os grupos pelo Whatsapp (utilizando o navegador Chrome);
+ 
+ #### <img height="22" src="https://aux.iconspalace.com/uploads/17947374941607781187.png" /> **Ferramentas Utilizadas:**
+
+<div style="display: inline-block">
+ <a href="#-ferramentas-utilizadas"><img align="center" height="38" title="Excel" alt="Excel" src="https://findicons.com/files/icons/2795/office_2013_hd/256/excel.png" /></a>
+ <a href="#-ferramentas-utilizadas"><img align="center" height="38" title="Access" alt="Access" src="https://findicons.com/files/icons/2795/office_2013_hd/256/access.png"></a>
+ <a href="#-ferramentas-utilizadas"><img align="center" height="33" title="VBA" alt="VBA" src="https://www.excelerateclasses.com/wp-content/uploads/2020/12/iconfinder_file-type-vba_4196094.png" /></a>
+ <a href="#-ferramentas-utilizadas"><img align="center" height="34" title="Selenium" alt="Selenium" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Selenium_logo.svg/1280px-Selenium_logo.svg.png" /></a>
+
+#### <img height="22" title="Capturas de Tela" alt="Capturas de Tela" src="https://www.freeiconspng.com/uploads/no-image-icon-13.png" /> **Screenshots:**
+
+|<img src="https://media4.giphy.com/media/gJDdffxl7HkqnSa0T0/giphy.gif?cid=790b761187289e98b631cef34dea86da524dc78e9172a233&rid=giphy.gif&ct=g" />|CONFIGURAÇÃO DOS CAMPOS DO RETORNO JSON DA API </p> <img src="https://i.imgur.com/ocignP6.jpg" />|
+|---|---|
+ 
