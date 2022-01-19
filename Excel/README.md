@@ -44,7 +44,7 @@ O intuito foi criar uma base de dados local para geração de relatórios e mini
 ### 2. Gerador de Slides Whatsapp
 
 #### <img height="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Info_icon-72a7cf.svg/1200px-Info_icon-72a7cf.svg.png" /> **Descrição:**
-O objetivo desta aplicação é gerar slides via Powerpoint automaticamente através de macros no VBA trazendo tabelas e gráficos correspondente à cada empresa e enviar para seus respectivos grupos (cujo os membros são os sócios de cada empreendimento) no Whatsapp
+O objetivo desta aplicação é gerar slides via Powerpoint automaticamente através de macros no VBA, trazendo tabelas e gráficos correspondente à cada empresa e enviar para seus respectivos grupos (cujo os membros são os sócios de cada empreendimento) no Whatsapp
 
 #### <img height="22" src="https://i.imgur.com/dFI6KAY.png" /> **Funcionalidades:**
 
