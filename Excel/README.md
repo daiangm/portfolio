@@ -48,7 +48,7 @@ O objetivo desta aplicação é gerar slides via Powerpoint automaticamente atra
 
 #### <img height="22" src="https://i.imgur.com/dFI6KAY.png" /> **Funcionalidades:**
 
- - Consulta ao Banco de Dados Access atualizado pelo <a href="https://github.com/daiangm/portfolio/blob/main/Excel/README.md#1-atualizador-banco-de-dados">Atualizador de Banco de Dados</a> (item anterior);
+ - Consulta ao Banco de Dados Access atualizado pelo <a href="#1-atualizador-banco-de-dados">Atualizador de Banco de Dados</a> (item anterior);
  - Tratamento dos dados conforme regra de negócio e facilitação de visualização das informações;
  - Fácil configuração de parâmetros em planilha, tais como:
    - Identificação do empreendimento no Banco de Dados;
