@@ -69,6 +69,5 @@ O objetivo desta aplicação é gerar slides via Powerpoint automaticamente atra
 
 #### <img height="22" title="Capturas de Tela" alt="Capturas de Tela" src="https://www.freeiconspng.com/uploads/no-image-icon-13.png" /> **Screenshots:**
 
-|<img src="https://i.imgur.com/SkG6SdU.gif" />|CONFIGURAÇÃO DOS CAMPOS DO RETORNO JSON DA API </p> <img src="https://i.imgur.com/ocignP6.jpg" />|
-|---|---|
+<img src="https://i.imgur.com/SkG6SdU.gif" />
  
